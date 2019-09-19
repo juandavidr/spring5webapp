@@ -4,6 +4,9 @@ import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Created by jd.rodriguez
+ */
 @Entity
 public class Book {
     @Id
